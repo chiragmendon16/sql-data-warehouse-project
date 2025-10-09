@@ -37,5 +37,5 @@ strategic decision-making
 ## 🪪 License
 This Project is licensed under the [MIT License].(LICENSE). You guys are free to use, modify and share this project with the proper attribution.
 
-##🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 Hi there!! I'm **Chirag Mendon**, im a Computer Engineer and im very passionate about the Data and stuffs.
