@@ -9,8 +9,9 @@ Designed as a portfolio project which highlights the industry best practices in 
       <p>This project follows a Medallion Architecture (Bronze → Silver → Gold) approach to organize and mature data as it flows from sources to analytics.</p>
 <section class="card">
   <h2>📊 Data Architecture Diagram</h2>
-  <img src="C:\Users\Chirag\Downloads\Data Architecture.png" alt="Architecture Overview" width="700">
+  <img src="docs/data_architecture.png" alt="Architecture Overview" width="700">
 </section>
+
 
 <ul class="layers">
         <li><strong>Bronze Layer:</strong> Raw ingestion of source CSV files into SQL Server (as-is snapshots).</li>
